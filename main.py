@@ -1,6 +1,4 @@
-from tkinter import messagebox
-import requests
-from tkinter import *
+from tkinter import messagebox, Tk, Canvas, Frame, Entry, Button
 
 
 def weather_foo():
